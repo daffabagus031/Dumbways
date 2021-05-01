@@ -1,4 +1,5 @@
 Soal Nomor 4
+
 Diketahui sebuah web mempunyai 2 buah table sebagai berikut :
 book_tb
   id
